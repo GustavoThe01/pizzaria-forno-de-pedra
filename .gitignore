@@ -1,0 +1,22 @@
+# Dependências e build
+node_modules/
+dist/
+coverage/
+
+# Ambiente
+.env*
+
+# Firebase
+.firebase/
+*-debug.log
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+
+# Backup local dos arquivos anteriores à auditoria
+.arquivo-auditoria/
