@@ -30,7 +30,7 @@ const headingClass = 'mb-5 border-l-4 border-brand-red pl-3 text-xs font-black u
 
 export function Footer() {
   return (
-    <footer className="border-t border-white/5 bg-brand-dark pb-8 pt-14 text-stone-300">
+    <footer id="site-footer" className="border-t border-white/5 bg-brand-dark pb-8 pt-14 text-stone-300">
       <div className="mx-auto grid max-w-7xl grid-cols-1 gap-10 px-4 sm:grid-cols-2 sm:px-6 lg:grid-cols-4 lg:px-8">
         <div className="space-y-4">
           <Link to="/" className="flex items-center gap-2.5">

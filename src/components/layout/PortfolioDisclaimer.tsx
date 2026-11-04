@@ -78,7 +78,7 @@ export function PortfolioDisclaimer({ onAccept }: { onAccept: () => void }) {
           </p>
         </div>
 
-        <footer className="flex flex-col-reverse justify-center gap-3 border-t border-white/5 bg-black/20 px-5 py-4 sm:flex-row sm:gap-4 sm:px-9 sm:py-6">
+        <div className="flex flex-col-reverse justify-center gap-3 border-t border-white/5 bg-black/20 px-5 py-4 sm:flex-row sm:gap-4 sm:px-9 sm:py-6">
           <a
             href={DESENVOLVEDOR.site}
             className="rounded-full border border-white/20 px-7 py-3 text-center text-sm font-semibold text-stone-200 transition-colors hover:border-white/40 hover:bg-white/5 hover:text-white sm:min-w-44"
@@ -93,7 +93,7 @@ export function PortfolioDisclaimer({ onAccept }: { onAccept: () => void }) {
           >
             Sim, desejo continuar
           </button>
-        </footer>
+        </div>
       </div>
     </div>
   );

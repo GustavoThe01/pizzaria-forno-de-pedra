@@ -9,7 +9,7 @@ export function WhatsappFloat() {
 
   // Oculta o botão quando o rodapé aparece, para não cobrir os links dele.
   useEffect(() => {
-    const footer = document.querySelector('footer');
+    const footer = document.getElementById('site-footer');
     if (!footer) return;
 
     const observer = new IntersectionObserver(([entry]) => setFooterVisible(entry.isIntersecting));
