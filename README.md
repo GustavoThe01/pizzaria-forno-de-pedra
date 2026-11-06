@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="Forno de Pedra — modelo de site para pizzarias e delivery" width="100%" />
+<img src="docs/assets/banner.webp" alt="Forno de Pedra — pizzaiolo preparando o fermento diante do forno a lenha" width="100%" />
 
 # ♨ Forno de Pedra
 ### A arte da verdadeira fatia, do cardápio ao WhatsApp
