@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.webp" alt="Forno de Pedra — pizzaiolo preparando o fermento diante do forno a lenha" width="100%" />
+<img src="docs/assets/banner.svg" alt="Logo da Forno de Pedra, Pizzaria Artesanal" width="100%" />
 
 # ♨ Forno de Pedra
 ### A arte da verdadeira fatia, do cardápio ao WhatsApp
